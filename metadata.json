@@ -1,0 +1,8 @@
+{
+  "name": "ODISHA SURAKSHA AI",
+  "description": "AI-powered disaster intelligence and emergency response platform designed specifically for Odisha, India. Features multi-hazard monitoring, interactive district risk maps, tactical Gemini AI incident triaging, vulnerable population prioritization, and an emergency response centre.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
